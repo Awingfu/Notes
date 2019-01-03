@@ -2,6 +2,11 @@
 
 [Official Express Documentation](https://expressjs.com/)
 
+## Install Express Generator
+
+1. Run `npm install express-generator -g`, list options by running `express -h`
+2. To create a new application `express --view=pug <project name>`
+
 ## First Steps - Hello World
 
 1. Make a new project directory with ```mkdir <project name>``` and ```cd``` into it
